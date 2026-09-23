@@ -1,3 +1,3 @@
 <?php
-	echo "Cabang Fitur-navbar";
+	echo "Cabang Fitur-navbar1";
 ?>
